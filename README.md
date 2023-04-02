@@ -9,3 +9,5 @@ It alters as more grades are acquired for each content
 
 The Front End Interacts with the Student 
 The backend stores the user details 
+
+Vik and Lincoln work. 
