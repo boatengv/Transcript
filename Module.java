@@ -4,11 +4,12 @@ public class Module{
     int credit; 
     Content content;
     
-    public Module(string name, int credit, Content content){
+    public Module(String name, int credit, Content content){
         this.name = name;
-        int.credit = credit;
-        this.t = t;
+        this.credit = credit;
+        this.content = content;
     }
+    
     
     public String getName(){
         return this.name;

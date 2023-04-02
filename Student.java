@@ -11,7 +11,7 @@ public class Student{
     }
     
     public void insertModule(Module m){
-        this.studentModules.add(m) 
+        this.studentModules.add(m);
     }
     
     
