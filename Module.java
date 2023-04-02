@@ -1,13 +1,15 @@
+import java.util.ArrayList;
+
 public class Module{
     
     String name; 
     int credit; 
-    Content content;
+    ArrayList<Content> contents;
     
-    public Module(String name, int credit, Content content){
+    public Module(String name, int credit, ArrayList<Content> contents){
         this.name = name;
         this.credit = credit;
-        this.content = content;
+        this.contents = contents;
     }
     
     
